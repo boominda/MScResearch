@@ -1,0 +1,30 @@
+obj_cooja/route.o: /home/user/contiki-2.7/core/net/rime/route.c \
+ /home/user/contiki-2.7/core/./lib/list.h \
+ /home/user/contiki-2.7/core/./lib/memb.h \
+ /home/user/contiki-2.7/core/./sys/cc.h \
+ /home/user/contiki-2.7/platform/cooja/./contiki-conf.h \
+ /home/user/contiki-2.7/core/./sys/ctimer.h \
+ /home/user/contiki-2.7/core/./sys/etimer.h \
+ /home/user/contiki-2.7/core/./sys/timer.h \
+ /home/user/contiki-2.7/core/./sys/clock.h \
+ /home/user/contiki-2.7/core/./sys/process.h \
+ /home/user/contiki-2.7/core/./sys/pt.h \
+ /home/user/contiki-2.7/core/./sys/lc.h \
+ /home/user/contiki-2.7/core/./sys/lc-switch.h \
+ /home/user/contiki-2.7/core/./net/rime/route.h \
+ /home/user/contiki-2.7/core/./net/rime/rimeaddr.h
+/home/user/contiki-2.7/core/net/rime/route.c :
+ /home/user/contiki-2.7/core/./lib/list.h :
+ /home/user/contiki-2.7/core/./lib/memb.h :
+ /home/user/contiki-2.7/core/./sys/cc.h :
+ /home/user/contiki-2.7/platform/cooja/./contiki-conf.h :
+ /home/user/contiki-2.7/core/./sys/ctimer.h :
+ /home/user/contiki-2.7/core/./sys/etimer.h :
+ /home/user/contiki-2.7/core/./sys/timer.h :
+ /home/user/contiki-2.7/core/./sys/clock.h :
+ /home/user/contiki-2.7/core/./sys/process.h :
+ /home/user/contiki-2.7/core/./sys/pt.h :
+ /home/user/contiki-2.7/core/./sys/lc.h :
+ /home/user/contiki-2.7/core/./sys/lc-switch.h :
+ /home/user/contiki-2.7/core/./net/rime/route.h :
+ /home/user/contiki-2.7/core/./net/rime/rimeaddr.h :
